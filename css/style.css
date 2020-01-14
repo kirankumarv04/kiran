@@ -1,0 +1,9 @@
+.add-todo{
+  padding-top: 60px;
+}
+.todo-list{
+  position: relative;
+  margin-top: 20px;
+  padding: 10px 20px;
+  border: 2px solid #000;
+}
